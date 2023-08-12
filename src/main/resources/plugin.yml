@@ -1,0 +1,5 @@
+name: DuelsPlugin
+version: '${project.version}'
+main: eextr0.duelsplugin.DuelsPlugin
+api-version: '1.19'
+authors: [eextr0]
